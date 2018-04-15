@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+      android:id="@+id/ville"
+      android:hint="Ville"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+    <Button
+      android:id="@+id/rechercher"
+      android:text="Chercher une ville"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/ville" />
+    <TextView
+      android:id="@+id/country"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/rechercher" />
+    <TextView
+      android:id="@+id/desc"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/country" />
+    <FFImageLoading.Views.ImageViewAsync
+      android:id="@+id/weatherImg"
+      android:layout_width="70dp"
+      android:layout_height="70dp"
+      android:layout_alignParentRight="true"
+      android:layout_marginRight="10dp"
+      android:layout_toRightOf="@id/desc"
+      android:layout_below="@id/rechercher"/>
+    <TextView
+      android:id="@+id/lat"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/desc" />
+    <TextView
+      android:id="@+id/lon"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/lat" />
+    <TextView
+      android:id="@+id/temp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/lon" />
+    <TextView
+      android:id="@+id/tempMax"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/temp" />
+    <TextView
+      android:id="@+id/tempMin"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/tempMax" />
+    <TextView
+      android:id="@+id/windSpeed"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/tempMin" />
+    <TextView
+      android:id="@+id/humidite"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/windSpeed" />
+    <Button
+      android:id="@+id/historique"
+      android:text="Historique"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentBottom="true" />
+</RelativeLayout>

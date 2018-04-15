@@ -1,0 +1,85 @@
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.Projet.apk
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.Projet-Signed.apk
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.DataBinding.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.Sync.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Remotion.Linq.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.DataBinding.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.Sync.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Realm.Sync.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Remotion.Linq.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\Projet.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\android\bin\Projet.Projet.apk
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\res\layout\main.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\res\values\strings.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\R.cs.flag
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\uploadflags.txt
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Xamarin.Android.Support.Exif.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.dll.config
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\res\layout\list_historique.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\res\layout\item_historique.xml
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.dll.mdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\obj\Debug\android\assets\Projet.dll.mdb
+C:\Users\MSI Gaming\source\repos\Projet\Projet\bin\Debug\Projet.dll
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Web.Services.pdb
+bin\Debug\System.Xml.Linq.pdb
+obj\Debug\linksrc\Projet.dll.mdb
+obj\Debug\linksrc\FFImageLoading.pdb
+obj\Debug\linksrc\FFImageLoading.Platform.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Realm.DataBinding.pdb
+obj\Debug\linksrc\Realm.pdb
+obj\Debug\linksrc\Realm.Sync.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Web.Services.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
